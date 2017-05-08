@@ -22,7 +22,7 @@ C++ implementation.
 
 ## References
    * [1] Akiko Eriguchi, Yoshimasa Tsuruoka, and Kyunghyun Cho. 2017. "[Learning to Parse and Translate Improves Neural Machine Translatioin](https://arxiv.org/pdf/1702.03525.pdf)". In Proceeding of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2017). To appear.
-eriguchi [.at.] logos.t.u-tokyo.ac.jp
+
    * [2] Chris Dyer, Adhiguna Kuncoro, Miguel Ballesteros, and Noah A. Smith. 2016. "[Recurrent Neural Network Grammars](https://arxiv.org/abs/1602.07776)". In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.   
    * [3] [Tanaka Corpus](http://www.edrdg.org/wiki/index.php/Tanaka_Corpus)
 
